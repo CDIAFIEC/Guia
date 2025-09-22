@@ -16,7 +16,7 @@ La carrera cuenta con dos modalidades de estudio: `Híbrida <https://www.fiec.es
 Malla
 -----
 
-La malla de la carrera se puede consultar en el siguiente enlace: 
+La malla de la carrera se puede consultar en los siguientes enlaces: 
 
-* `Modalida Híbrida <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029>`_
-* `Modalida En Línea <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030>`_
+* `Modalidad Híbrida <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029>`_
+* `Modalidad En Línea <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030>`_
