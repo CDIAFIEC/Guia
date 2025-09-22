@@ -15,6 +15,7 @@ Bienvenido a la guía del estudiante para aprender sobre Ciencia de Datos e Inte
             :caption: Contenidos
             :glob:
 
+            temas/generalidades
             temas/novatos
             temas/registros
             temas/correos
