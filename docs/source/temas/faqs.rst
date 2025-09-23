@@ -33,19 +33,19 @@ Reprobé una(s) materia(s) en el periodo académico anterior y voy a volver a to
     
 * ¿Cuándo saldrá la deuda? 
 
-El valor a pagar le aparece en la semana de la tercera evaluación.
+**Respuesta:** El valor a pagar le aparece en la semana de la tercera evaluación.
 
 * ¿Cuánto debo pagar?
 
-El valor a pagar depende de su índice socioeconómico (ISE) y del número de materias reprobadas que esté nuevamente tomando.
+**Respuesta:** El valor a pagar depende de su índice socioeconómico (ISE) y del número de materias reprobadas que esté nuevamente tomando.
 
 * ¿Dónde puedo pagar deuda?
 
-Con su número de cédula, debe acercarse a cualquier agencia del Banco del Pacifico, o por Intermático.
+**Respuesta:** Con su número de cédula, debe acercarse a cualquier agencia del Banco del Pacifico, o por Intermático.
 
 * ¿Hasta cuándo puedo pagar la deuda?
 
-La deuda debe estar cancelada hasta antes de los registros del siguiente periodo académico. 
+**Respuesta:** La deuda debe estar cancelada hasta antes de los registros del siguiente periodo académico.
 
 
 Certificados de Estudios
