@@ -29,7 +29,7 @@ Para mayor información, consulte al correo `celex@espol.edu.ec`.
 Reprobación, Deudas y Pagos
 ---------------------------
 
-.. note:: 
+.. admonition:: Caso 1
 
     Reprobé una(s) materia(s) en el periodo académico anterior y voy a volver a tomarla(s) en el periodo académico actual. 
         
@@ -50,7 +50,7 @@ Reprobación, Deudas y Pagos
     **Respuesta:** La deuda debe estar cancelada hasta antes de los registros del siguiente periodo académico.
 
 
-.. note:: 
+.. admonition:: Caso 2
 
     Reprobé una(s) materia(s) en el periodo académico anterior y NO voy a tomarla(s) en el periodo académico actual. 
 
