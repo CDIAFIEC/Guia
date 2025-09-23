@@ -47,6 +47,11 @@ Reprobé una(s) materia(s) en el periodo académico anterior y voy a volver a to
 
 **Respuesta:** La deuda debe estar cancelada hasta antes de los registros del siguiente periodo académico.
 
+Reprobé una(s) materia(s) en el periodo académico anterior y NO voy a tomarla(s) en el periodo académico actual. 
+
+* ¿Tengo que pagar la deuda de las materias reprobadas?
+
+**Respuesta:** No, solo debe pagar la deuda si va a volver a tomar la(s) materia(s) reprobada(s).
 
 Certificados de Estudios
 ------------------------
