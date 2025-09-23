@@ -54,4 +54,4 @@ Certificados de Estudios
 ¿Dónde puedo obtener certificados de estudios?
 
 **Respuesta:**  Los certificados de estudios puede solicitarlos mediante la plataforma `Polimático - En Línea <https://polimatico.espol.edu.ec/>`_. 
-En caso que el formato que necesite no esté disponible en la plataforma, escriba al correo `dia@espol.edu.ec` explicando el motivo del pedido y los detalles de la información que necesita.
+En caso que el formato que necesite no esté disponible en la plataforma, escriba al correo `sta@espol.edu.ec` explicando el motivo del pedido y los detalles de la información que necesita.
