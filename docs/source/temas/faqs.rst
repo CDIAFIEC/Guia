@@ -28,7 +28,7 @@ Preguntas Frecuentes
     Los certificados de estudios puede solicitarlos mediante la plataforma `Polimático - En Línea <https://polimatico.espol.edu.ec/>`_. 
     En caso que el formato que necesite no esté disponible en la plataforma, escriba al correo `dia@espol.edu.ec` explicando el motivo del pedido y los detalles de la información que necesita.
 
-5. Reprobé una(s) materia(s) en este periodo académico, 
+5. Reprobé una(s) materia(s) en el periodo académico anterior y voy a volver a tomarla(s) en el periodo académico actual. 
     
     * ¿Cuándo saldrá la deuda? 
     
