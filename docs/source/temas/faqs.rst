@@ -7,41 +7,51 @@
 Preguntas Frecuentes
 ====================
 
+MOOCs y Materias Iniciales
+--------------------------
 
-1. ¿Puedo registrarme en Fundamentos de Programación si no tengo aprobado el MOOC de HCD (Herramientas de Colaboración Digital)?
+¿Puedo registrarme en Fundamentos de Programación si no tengo aprobado el MOOC de HCD (Herramientas de Colaboración Digital)?
 
-    **No.** Primero debe aprobar el MOOC de HCD para luego poder registrarse en Fundamentos de Programación. En `https://virtual.espol.edu.ec/` encontrará el curso MOOC de HCD.
-    Puede consultar el proceso de registro para el MOOC de HCD en `hcd@espol.edu.ec`.
+**Respuesta:**  No. Primero debe aprobar el MOOC de HCD para luego poder registrarse en Fundamentos de Programación. En `https://virtual.espol.edu.ec/` encontrará el curso MOOC de HCD.
+Puede consultar el proceso de registro para el MOOC de HCD en `hcd@espol.edu.ec`.
 
-2. ¿Puedo registrarme en Inglés si no tengo aprobado el MOOC de Inglés?
+¿Puedo registrarme en Inglés si no tengo aprobado el MOOC de Inglés?
 
-    **No.** Primero debe aprobar el MOOC de Inglés para luego poder registrarse en la materia Inglés.
-    Puede consultar el proceso de registro para el MOOC de Inglés en `moocingles@espol.edu.ec`.
+**Respuesta:**  No. Primero debe aprobar el MOOC de Inglés para luego poder registrarse en la materia Inglés.
+Puede consultar el proceso de registro para el MOOC de Inglés en `moocingles@espol.edu.ec`.
 
-3. ¿Dónde puedo obtener mayor información acerca de los exámenes de convalidación de conocimientos y exámenes de ubicación de Inglés?
+¿Dónde puedo obtener mayor información acerca de los exámenes de convalidación de conocimientos y exámenes de ubicación de Inglés?
 
-    Puede obtener mayor información en los correos electrónicos de **CELEX - ESPOL** que llegan a su cuenta institucional y en la cuenta `ESPOL - CELEX <https://www.instagram.com/espol.celex/>`_ en Instagram. 
-    Para mayor información, consulte al correo `celex@espol.edu.ec`.
+**Respuesta:**  Puede obtener mayor información en los correos electrónicos de **CELEX - ESPOL** que llegan a su cuenta institucional y en la cuenta `ESPOL - CELEX <https://www.instagram.com/espol.celex/>`_ en Instagram. 
+Para mayor información, consulte al correo `celex@espol.edu.ec`.
 
-4. ¿Dónde puedo obtener certificados de estudios?
 
-    Los certificados de estudios puede solicitarlos mediante la plataforma `Polimático - En Línea <https://polimatico.espol.edu.ec/>`_. 
-    En caso que el formato que necesite no esté disponible en la plataforma, escriba al correo `dia@espol.edu.ec` explicando el motivo del pedido y los detalles de la información que necesita.
+Reprobación, Deudas y Pagos
+---------------------------
 
-5. Reprobé una(s) materia(s) en el periodo académico anterior y voy a volver a tomarla(s) en el periodo académico actual. 
+Reprobé una(s) materia(s) en el periodo académico anterior y voy a volver a tomarla(s) en el periodo académico actual. 
     
-    * ¿Cuándo saldrá la deuda? 
-    
-    El valor a pagar le aparece en la semana de la tercera evaluación.
-    
-    * ¿Cuánto debo pagar?
+* ¿Cuándo saldrá la deuda? 
 
-    El valor a pagar depende de su índice socioeconómico (ISE) y del número de materias reprobadas que esté nuevamente tomando.
+El valor a pagar le aparece en la semana de la tercera evaluación.
 
-    * ¿Dónde puedo pagar deuda?
+* ¿Cuánto debo pagar?
 
-    Con su número de cédula, debe acercarse a cualquier agencia del Banco del Pacifico, o por Intermático.
+El valor a pagar depende de su índice socioeconómico (ISE) y del número de materias reprobadas que esté nuevamente tomando.
 
-    * ¿Hasta cuándo puedo pagar la deuda?
+* ¿Dónde puedo pagar deuda?
 
-    La deuda debe estar cancelada hasta antes de los registros del siguiente periodo académico. 
+Con su número de cédula, debe acercarse a cualquier agencia del Banco del Pacifico, o por Intermático.
+
+* ¿Hasta cuándo puedo pagar la deuda?
+
+La deuda debe estar cancelada hasta antes de los registros del siguiente periodo académico. 
+
+
+Certificados de Estudios
+------------------------
+
+¿Dónde puedo obtener certificados de estudios?
+
+**Respuesta:**  Los certificados de estudios puede solicitarlos mediante la plataforma `Polimático - En Línea <https://polimatico.espol.edu.ec/>`_. 
+En caso que el formato que necesite no esté disponible en la plataforma, escriba al correo `dia@espol.edu.ec` explicando el motivo del pedido y los detalles de la información que necesita.
