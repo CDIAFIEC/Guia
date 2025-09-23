@@ -27,3 +27,21 @@ Preguntas Frecuentes
 
     Los certificados de estudios puede solicitarlos mediante la plataforma `Polimático - En Línea <https://polimatico.espol.edu.ec/>`_. 
     En caso que el formato que necesite no esté disponible en la plataforma, escriba al correo `dia@espol.edu.ec` explicando el motivo del pedido y los detalles de la información que necesita.
+
+5. Reprobé una(s) materia(s) en este periodo académico, 
+    
+    * ¿Cuándo saldrá la deuda? 
+    
+    El valor a pagar le aparece en la semana de la tercera evaluación.
+    
+    * ¿Cuánto debo pagar?
+
+    El valor a pagar depende de su índice socioeconómico (ISE) y del número de materias reprobadas que esté nuevamente tomando.
+
+    * ¿Dónde puedo pagar deuda?
+
+    Con su número de cédula, debe acercarse a cualquier agencia del Banco del Pacifico, o por Intermático.
+
+    * ¿Hasta cuándo puedo pagar la deuda?
+
+    La deuda debe estar cancelada hasta antes de los registros del siguiente periodo académico. 
