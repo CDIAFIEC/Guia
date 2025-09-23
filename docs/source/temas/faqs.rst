@@ -29,29 +29,34 @@ Para mayor información, consulte al correo `celex@espol.edu.ec`.
 Reprobación, Deudas y Pagos
 ---------------------------
 
-Reprobé una(s) materia(s) en el periodo académico anterior y voy a volver a tomarla(s) en el periodo académico actual. 
-    
-* ¿Cuándo saldrá la deuda? 
+.. note:: 
 
-**Respuesta:** El valor a pagar le aparece en la semana de la tercera evaluación.
+    Reprobé una(s) materia(s) en el periodo académico anterior y voy a volver a tomarla(s) en el periodo académico actual. 
+        
+    * ¿Cuándo saldrá la deuda? 
 
-* ¿Cuánto debo pagar?
+    **Respuesta:** El valor a pagar le aparece en la semana de la tercera evaluación.
 
-**Respuesta:** El valor a pagar depende de su índice socioeconómico (ISE) y del número de materias reprobadas que esté nuevamente tomando.
+    * ¿Cuánto debo pagar?
 
-* ¿Dónde puedo pagar deuda?
+    **Respuesta:** El valor a pagar depende de su índice socioeconómico (ISE) y del número de materias reprobadas que esté nuevamente tomando.
 
-**Respuesta:** Con su número de cédula, debe acercarse a cualquier agencia del Banco del Pacifico, o por Intermático.
+    * ¿Dónde puedo pagar deuda?
 
-* ¿Hasta cuándo puedo pagar la deuda?
+    **Respuesta:** Con su número de cédula, debe acercarse a cualquier agencia del Banco del Pacifico, o por Intermático.
 
-**Respuesta:** La deuda debe estar cancelada hasta antes de los registros del siguiente periodo académico.
+    * ¿Hasta cuándo puedo pagar la deuda?
 
-Reprobé una(s) materia(s) en el periodo académico anterior y NO voy a tomarla(s) en el periodo académico actual. 
+    **Respuesta:** La deuda debe estar cancelada hasta antes de los registros del siguiente periodo académico.
 
-* ¿Tengo que pagar la deuda de las materias reprobadas?
 
-**Respuesta:** No, solo debe pagar la deuda si va a volver a tomar la(s) materia(s) reprobada(s).
+.. note:: 
+
+    Reprobé una(s) materia(s) en el periodo académico anterior y NO voy a tomarla(s) en el periodo académico actual. 
+
+    * ¿Tengo que pagar la deuda de las materias reprobadas?
+
+    **Respuesta:** No, solo debe pagar la deuda si va a volver a tomar la(s) materia(s) reprobada(s).
 
 Certificados de Estudios
 ------------------------
