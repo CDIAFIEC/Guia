@@ -35,7 +35,7 @@ Reprobación, Deudas y Pagos
         
     * ¿Cuándo saldrá la deuda? 
 
-    **Respuesta:** El valor a pagar le aparece en la semana de la tercera evaluación.
+    **Respuesta:** El valor a pagar le aparecerá durante la semana de la tercera evaluación.
 
     * ¿Cuánto debo pagar?
 
