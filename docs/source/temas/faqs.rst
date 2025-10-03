@@ -10,24 +10,32 @@ Preguntas Frecuentes
 MOOCs y Materias Iniciales
 --------------------------
 
-.. _hcd: HCD
+HCD (Herramientas de Colaboración Digital)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 ¿Puedo registrarme en Fundamentos de Programación si no tengo aprobado el MOOC de HCD (Herramientas de Colaboración Digital)?
 
 **Respuesta:**  No. Primero debe aprobar el MOOC de HCD para luego poder registrarse en Fundamentos de Programación. En la `Plataforma ESPOL Virtual <https://virtual.espol.edu.ec/>`_ encontrará el curso MOOC de HCD.
 Puede consultar el proceso de registro para el MOOC de HCD en `hcd@espol.edu.ec`.
 
-.. _comunicacion:
+Comunicación
+^^^^^^^^^^^^
+
 ¿Puedo registrarme en Comunicación si no tengo aprobado el MOOC de Comunicación?
 
 **Respuesta:**  No. Primero debe aprobar el MOOC de Comunicación para luego poder registrarse en la materia Comunicación. En la `Plataforma ESPOL Virtual <https://virtual.espol.edu.ec/>`_ encontrará el curso MOOC de Comunicación.
 
-.. _ingles:
+Inglés
+^^^^^^
+
 ¿Puedo registrarme en Inglés si no tengo aprobado el MOOC de Inglés?
 
 **Respuesta:**  No. Primero debe aprobar el MOOC de Inglés para luego poder registrarse en la materia Inglés.
 Puede consultar el proceso de registro para el MOOC de Inglés en `moocingles@espol.edu.ec`.
 
-.. _convalidacion_ingles:
+Exámenes de Convalidación y Exámenes de Ubicación
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 ¿Dónde puedo obtener mayor información acerca de los exámenes de convalidación de conocimientos y exámenes de ubicación de Inglés?
 
 **Respuesta:**  Puede obtener mayor información en los correos electrónicos de **CELEX - ESPOL** que llegan a su cuenta institucional y en la cuenta `ESPOL - CELEX <https://www.instagram.com/espol.celex/>`_ en Instagram. 
