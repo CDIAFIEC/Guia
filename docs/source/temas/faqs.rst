@@ -10,7 +10,7 @@ Preguntas Frecuentes
 MOOCs y Materias Iniciales
 --------------------------
 
-.. _hcd:
+.. _hcd: HCD
 ¿Puedo registrarme en Fundamentos de Programación si no tengo aprobado el MOOC de HCD (Herramientas de Colaboración Digital)?
 
 **Respuesta:**  No. Primero debe aprobar el MOOC de HCD para luego poder registrarse en Fundamentos de Programación. En la `Plataforma ESPOL Virtual <https://virtual.espol.edu.ec/>`_ encontrará el curso MOOC de HCD.
