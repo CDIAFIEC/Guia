@@ -13,6 +13,11 @@ Ciencia de Datos e Inteligencia Artificial
 La carrera cuenta con dos modalidades de estudio: `Híbrida <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-hibrida>`_ y `En Línea <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-online>`_. Ambas modalidades están diseñadas para proporcionar una formación integral en Ciencia de Datos e Inteligencia Artificial, adaptándose a las necesidades y preferencias de los estudiantes.
 
 
+Calendario de Grado
+-------------------- 
+
+En `Calendario de Grado <https://www.espol.edu.ec/es/vida-politecnica/calendario-grado>`_ puedes consultar las fechas importantes relacionadas con el proceso de grado: Registros, Actividades formativas, Consejerías y Vacaciones. 
+
 Malla
 -----
 
