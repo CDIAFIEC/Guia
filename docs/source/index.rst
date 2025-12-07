@@ -21,15 +21,6 @@ Bienvenido a la guía del estudiante para aprender sobre Ciencia de Datos e Inte
             temas/correos
             temas/faqs
 
-    .. grid-item:: 
-
-        .. toctree::
-            :maxdepth: 1
-            :caption: Consejerías
-            :glob:
-
-            consejerias/pao2-2025
-
     .. grid-item::
 
         .. image:: ./archivos/portada.png
@@ -38,3 +29,11 @@ Bienvenido a la guía del estudiante para aprender sobre Ciencia de Datos e Inte
             :align: center   
 
 
+.. grid-item:: 
+
+        .. toctree::
+            :maxdepth: 1
+            :caption: Consejerías
+            :glob:
+
+            consejerias/pao2-2025
