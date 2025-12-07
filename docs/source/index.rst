@@ -15,12 +15,13 @@ Bienvenido a la guía del estudiante para aprender sobre Ciencia de Datos e Inte
             :caption: Contenidos
             :glob:
 
+            consejerias/pao2_2025
             temas/generalidades
             temas/novatos
             temas/registros
             temas/correos
             temas/faqs
-            consejerias/pao2-2025
+            
 
     .. grid-item::
 
