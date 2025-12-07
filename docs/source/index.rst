@@ -15,7 +15,7 @@ Bienvenido a la Guía del Estudiante con recomendaciones generales como estudian
             :caption: Contenidos
             :glob:
 
-            consejerias/pao2_2025
+            temas/consejerias/pao2_2025
             temas/generalidades
             temas/novatos
             temas/registros
