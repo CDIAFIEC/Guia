@@ -3,9 +3,9 @@
   Licensed under Creative Commons Attribution-ShareAlike 4.0 International License
   SPDX-License-Identifier: CC-BY-SA-4.0
 
-===========================
-Consejerías - PAO II - 2025
-===========================
+============================================
+Consejerías académicas para el PAO II - 2025
+============================================
 
 Suspensión de la modalidad en línea
 -----------------------------------
@@ -40,10 +40,15 @@ De acuerdo con la planificación académica, las materias disponibles son las si
      - PAO I - 2026
      - PAO II - 2026
    * - Modalidad en línea
-     - Materia 1
-     - Materia 1
+     - Fundamentos de Programación (3 créditos), Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos) y Machine Learning (3 créditos).
+     - Fundamentos de Programación (3 créditos), Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos) y Machine Learning (3 créditos).
    * - Modalidad híbrida
-     - Materia 1
-     - Materia 1
+     - Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos) y Machine Learning (3 créditos).
+     - Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos), Machine Learning (3 créditos), Algoritmos de Optimización (3 créditos), Visualización de Información (2 créditos) e Inteligencia Artificial (3 créditos).
 
-**Nota:** Las materias para la modalidad en línea están sujetas a cambios debido de acuerdo con las necesidades académicas.
+**Nota:** Las materias para la modalidad en línea están sujetas a cambios debido de acuerdo con las necesidades académicas. 
+
+Prácticas de servicio comunitario
+---------------------------------
+
+Desde el PAO I - 2026, los estudiantes de la modalidad híbrida que hayan aprobado **Programación Orientada a Objetos**, **Sistema de Bases de Datos** y **Fundamentos de Ciencia de Datos e Inteligencia Artificial** podrán realizar sus prácticas de servicio comunitario en el proyecto `Transformación Digital e Innovación <https://manglaralto-marino-digital.vercel.app/>`_.
