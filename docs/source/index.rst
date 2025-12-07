@@ -4,7 +4,7 @@ Ciencia de Datos e Inteligencia Artificial
 Guía del estudiante
 --------------------
 
-Bienvenido a la guía del estudiante para aprender sobre Ciencia de Datos e Inteligencia Artificial. Aquí encontrarás recursos, tutoriales y temas relevantes de tu interés.
+Bienvenido a la Guía del Estudiante con recomendaciones generales como estudiante politécnico y de la Ciencia de Datos e Inteligencia Artificial. Aquí encontrarás recursos, tutoriales y temas relevantes de tu interés.
 
 .. grid:: 2
 
