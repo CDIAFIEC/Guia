@@ -19,7 +19,7 @@ Los estudiantes que deseen cambiar su modalidad de estudio (de *en línea* a *h�
 
 El proceso continúa de manera personalizada con los estudiantes que completen el formulario y que manifieste su interés en el cambio de modalidad.
 
-**Nota:** Revisen la `grabación de la sesión <https://drive.google.com/drive/folders/1Jc4ojLHowQr3EMtTxYQqm11GKMIdSGBv?usp=sharing>`_ con los detalles del cambio de modalidaddetalles del proceso del cambio de modalidad en la .
+**Nota:** Revisen la `grabación de la sesión <https://drive.google.com/drive/folders/1Jc4ojLHowQr3EMtTxYQqm11GKMIdSGBv?usp=sharing>`_ con los detalles del cambio de modalidad de en línea a híbrida.
 
 Cambios de carrera
 ------------------
@@ -46,7 +46,9 @@ De acuerdo con la planificación académica, las materias disponibles son las si
      - Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos) y Machine Learning (3 créditos).
      - Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos), Machine Learning (3 créditos), Algoritmos de Optimización (3 créditos), Visualización de Información (2 créditos) e Inteligencia Artificial (3 créditos).
 
-**Nota:** Las materias para la modalidad en línea están sujetas a cambios debido de acuerdo con las necesidades académicas. 
+**Notas:** 
+- Las materias para la modalidad en línea están sujetas a cambios debido de acuerdo con las necesidades académicas. 
+- Si falta alguna materia en la planificación, por favor comuníquese con el coordinador de carrera mediante correo electrónico _cdia@fiec.espol.edu.ec_.
 
 Prácticas de servicio comunitario
 ---------------------------------
