@@ -3,9 +3,9 @@
   Licensed under Creative Commons Attribution-ShareAlike 4.0 International License
   SPDX-License-Identifier: CC-BY-SA-4.0
 
-=============
-PAO II - 2025
-=============
+===========================
+Consejerías - PAO II - 2025
+===========================
 
 Suspensión de la modalidad en línea
 -----------------------------------
@@ -15,9 +15,11 @@ Por disposición del VRD (Vicerrectorado de Docencia), a partir del PAO I - 2026
 Cambio de modalidad
 -------------------
 
-Los estudiantes que deseen cambiar su modalidad de estudio (de *en línea* a *híbrida*) deberán completar el formulario con la [intención de cambio de modalidad](https://forms.gle/mYy53H4GP5L1vcvRA), que fue enviado por correo electrónico.
+Los estudiantes que deseen cambiar su modalidad de estudio (de *en línea* a *híbrida*) deberán completar el formulario con la `intención de cambio de modalidad <https://forms.gle/mYy53H4GP5L1vcvRA>`_, que fue enviado por correo electrónico.
 
-**Nota:** Revisen la [grabación de la sesión](https://drive.google.com/drive/folders/1Jc4ojLHowQr3EMtTxYQqm11GKMIdSGBv?usp=sharing) con los detalles del cambio de modalidaddetalles del proceso del cambio de modalidad en la .
+El proceso continúa de manera personalizada con los estudiantes que completen el formulario y que manifieste su interés en el cambio de modalidad.
+
+**Nota:** Revisen la `grabación de la sesión <https://drive.google.com/drive/folders/1Jc4ojLHowQr3EMtTxYQqm11GKMIdSGBv?usp=sharing>`_ con los detalles del cambio de modalidaddetalles del proceso del cambio de modalidad en la .
 
 Cambios de carrera
 ------------------
@@ -25,8 +27,8 @@ Cambios de carrera
 VRD aún no autoriza los cambios de carrera **desde** o **hacia** la carrera Ciencia de Datos e Inteligencia Artificial. Se informará oportunamente por correo electrónico cuando se habilite esta opción.
 
 
-2026: Materias disponibles
---------------------------
+Disponibilidad de materias en el 2026
+---------------------------------------
 
 De acuerdo con la planificación académica, las materias disponibles son las siguientes:
 
@@ -43,3 +45,5 @@ De acuerdo con la planificación académica, las materias disponibles son las si
    * - Modalidad híbrida
      - Materia 1
      - Materia 1
+
+**Nota:** Las materias para la modalidad en línea están sujetas a cambios debido de acuerdo con las necesidades académicas.
