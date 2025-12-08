@@ -26,26 +26,6 @@ Cambios de carrera
 
 Las autoridades aún no autoriza los cambios de carrera **desde** o **hacia** la carrera Ciencia de Datos e Inteligencia Artificial. Se informará oportunamente por correo electrónico cuando se habilite esta opción.
 
-
-Disponibilidad de materias en el 2026
----------------------------------------
-
-De acuerdo con la planificación académica, las materias disponibles son las siguientes:
-
-.. list-table::
-   :header-rows: 1
-   :widths: 15 55 30
-
-   * - Modalidad
-     - PAO I - 2026
-     - PAO II - 2026
-   * - Modalidad en línea
-     - Fundamentos de Programación (3 créditos), Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos) y Machine Learning (3 créditos).
-     - Fundamentos de Programación (3 créditos), Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos) y Machine Learning (3 créditos).
-   * - Modalidad híbrida
-     - Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos) y Machine Learning (3 créditos).
-     - Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos), Machine Learning (3 créditos), Algoritmos de Optimización (3 créditos), Visualización de Información (2 créditos) e Inteligencia Artificial (3 créditos).
-
 **Notas:** 
 
 - Las materias para la modalidad en línea están sujetas a cambios debido de acuerdo con las necesidades académicas. 
