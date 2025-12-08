@@ -47,8 +47,9 @@ De acuerdo con la planificación académica, las materias disponibles son las si
      - Fundamentos de Ciencia de Datos e Inteligencia Artificial (3 créditos), Machine Learning (3 créditos), Algoritmos de Optimización (3 créditos), Visualización de Información (2 créditos) e Inteligencia Artificial (3 créditos).
 
 **Notas:** 
+
 - Las materias para la modalidad en línea están sujetas a cambios debido de acuerdo con las necesidades académicas. 
-- Si falta alguna materia en la planificación, por favor comuníquese con el coordinador de carrera mediante correo electrónico _cdia@fiec.espol.edu.ec_.
+- Si falta alguna materia en la planificación, por favor comuníquese con el coordinador de carrera mediante correo electrónico cdia@fiec.espol.edu.ec.
 
 Prácticas de servicio comunitario
 ---------------------------------
