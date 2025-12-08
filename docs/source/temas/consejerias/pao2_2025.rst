@@ -31,7 +31,7 @@ Las autoridades aún no autoriza los cambios de carrera **desde** o **hacia** la
 - Las materias para la modalidad en línea están sujetas a cambios debido de acuerdo con las necesidades académicas. 
 - Si falta alguna materia en la planificación, por favor comuníquese con el coordinador de carrera mediante correo electrónico cdia@fiec.espol.edu.ec.
 
-Prácticas de servicio comunitario
----------------------------------
+Modalidad híbrida: Prácticas de servicio comunitario
+----------------------------------------------------
 
 Desde el PAO I - 2026, los estudiantes de la modalidad híbrida que hayan aprobado **Programación Orientada a Objetos**, **Sistema de Bases de Datos** y **Fundamentos de Ciencia de Datos e Inteligencia Artificial** podrán realizar sus prácticas de servicio comunitario en el proyecto `Transformación Digital e Innovación <https://manglaralto-marino-digital.vercel.app/>`_.
