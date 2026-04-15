@@ -34,7 +34,19 @@ Inglés
 Puede consultar el proceso de registro para el MOOC de Inglés en `moocingles@espol.edu.ec`.
 
 Exámenes de Validación y Exámenes de Ubicación
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+¿Para qué es este examen de validación de conocimientos? 
+
+**Respuesta:** El examen de validación es un mecanismo para validar tu conocimiento previo. De tal forma que, de aprobar, puedan homologar los créditos. En este caso, las materias de Inglés (I al V). El costo no es un valor fijo.
+
+¿Es obligatorio dar el examen de validación de conocimientos?
+
+**Respuesta:** No, es opcional. Si no se da el examen de validación, se debe tomar el flujo de materias.
+
+¿Cuál es el procedimiento correcto para realizar el registro?
+
+**Respuesta:**  El registro se realiza mediante el Académico. Sin embargo, el proceso sólo está disponible para los estudiantes en la modalidad híbrida. Dado que ellos ven la materia de inglés de manera presencial.
 
 ¿Dónde puedo obtener mayor información acerca de los exámenes de validación de conocimientos y exámenes de ubicación de Inglés?
 
