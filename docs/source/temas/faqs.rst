@@ -48,6 +48,10 @@ Exámenes de Validación y Exámenes de Ubicación
 
 **Respuesta:**  El registro se realiza mediante el Académico. Sin embargo, el proceso sólo está disponible para los estudiantes en la modalidad híbrida. Dado que ellos ven la materia de inglés de manera presencial.
 
+¿A qué qué materias aplica el examen de validación de conocimientos? 
+
+**Respuesta:** Se aplica a todas las materias que cumpla con los prerrequisitos establecidos. El procedimiento de validación toma un periodo académico y tiene un costo, que se calcula de acuerdo con los créditos e ISE del estudiante.
+
 ¿Dónde puedo obtener mayor información acerca de los exámenes de validación de conocimientos y exámenes de ubicación de Inglés?
 
 **Respuesta:**  Puede obtener mayor información en los correos electrónicos de **CELEX - ESPOL** que llegan a su cuenta institucional y en la cuenta `ESPOL - CELEX <https://www.instagram.com/espol.celex/>`_ en Instagram. 
@@ -94,7 +98,7 @@ Certificados de Estudios
 **Respuesta:**  Los certificados de estudios puede solicitarlos mediante la plataforma `Polimático - En Línea <https://polimatico.espol.edu.ec/>`_. 
 En caso que el formato que necesite no esté disponible en la plataforma, escriba al correo `sta@espol.edu.ec` explicando el motivo del pedido y los detalles de la información que necesita.
 
-Descargo de responsabilidad
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+`Descargo de responsabilidad`
+-----------------------------
 
-Las respuestas a las preguntas frecuentes son proporcionadas con el propósito de brindar información general y orientación a los estudiantes. Sin embargo, es importante tener en cuenta que las políticas académicas, procedimientos y requisitos pueden estar sujetos a cambios por parte de las autoridades de la institución. Se recomienda a los estudiantes verificar la información actualizada a través de los canales oficiales de comunicación de la ESPOL y consultar directamente con las autoridades académicas para obtener información precisa y actualizada sobre cualquier tema relacionado con su carrera y estudios.
+Las respuestas a las preguntas frecuentes son proporcionadas con el propósito de brindar información general y orientación a los estudiantes. Sin embargo, es importante tener en cuenta que las políticas académicas, procedimientos y requisitos pueden estar sujetos a cambios por parte de las autoridades de la institución. Se recomienda a los estudiantes verificar la información actualizada a través de los canales oficiales de comunicación de la ESPOL y consultar directamente con la coordinación de la carrera para obtener información precisa y actualizada sobre cualquier tema relacionado con sus estudios y procesos académicos.
