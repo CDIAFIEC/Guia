@@ -93,3 +93,8 @@ Certificados de Estudios
 
 **Respuesta:**  Los certificados de estudios puede solicitarlos mediante la plataforma `Polimático - En Línea <https://polimatico.espol.edu.ec/>`_. 
 En caso que el formato que necesite no esté disponible en la plataforma, escriba al correo `sta@espol.edu.ec` explicando el motivo del pedido y los detalles de la información que necesita.
+
+Descargo de responsabilidad
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+
+Las respuestas a las preguntas frecuentes son proporcionadas con el propósito de brindar información general y orientación a los estudiantes. Sin embargo, es importante tener en cuenta que las políticas académicas, procedimientos y requisitos pueden estar sujetos a cambios por parte de las autoridades de la institución. Se recomienda a los estudiantes verificar la información actualizada a través de los canales oficiales de comunicación de la ESPOL y consultar directamente con las autoridades académicas para obtener información precisa y actualizada sobre cualquier tema relacionado con su carrera y estudios.
