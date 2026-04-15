@@ -1,0 +1,42 @@
+..
+  Copyright (c) 2025 Allan Avendaño Sudario
+  Licensed under Creative Commons Attribution-ShareAlike 4.0 International License
+  SPDX-License-Identifier: CC-BY-SA-4.0
+
+============================================
+Consejerías académicas para el PAE - 2026
+============================================
+
+Periodo de consejerías académicas para el PAE - 2026
+------------------------------------------------------
+
+De acuerdo con el `calendario académico <https://www.espol.edu.ec/es/vida-politecnica/calendario-grado>`_, el periodo de consejerías académicas para el PAE - 2026 se llevará a cabo del **20 al 30 de abril**.
+
+Suspensión de la modalidad en línea
+-----------------------------------
+
+Por disposición de las autoridades, a partir del PAO I - 2026: **no se recibirán novatos en la carrera Ciencia de Datos e Inteligencia Artificial - modalidad (CDIA) en línea.**
+
+Cambio de modalidad
+-------------------
+
+Los estudiantes que deseen cambiar su modalidad de estudio (de *en línea* a *híbrida*) deberán completar el formulario con la `intención de cambio de modalidad <https://forms.gle/mYy53H4GP5L1vcvRA>`_, que fue enviado por correo electrónico.
+
+El proceso continúa de manera personalizada con los estudiantes que completen el formulario y que manifieste su interés en el cambio de modalidad.
+
+**Nota:** Revisen la `grabación de la sesión <https://drive.google.com/drive/folders/1Jc4ojLHowQr3EMtTxYQqm11GKMIdSGBv?usp=sharing>`_ con los detalles del cambio de modalidad de en línea a híbrida.
+
+Cambios de carrera
+------------------
+
+Las autoridades aún no autoriza los cambios de carrera **desde** o **hacia** la carrera Ciencia de Datos e Inteligencia Artificial. Se informará oportunamente por correo electrónico cuando se habilite esta opción.
+
+**Notas:** 
+
+- Las materias para la modalidad en línea están sujetas a cambios debido de acuerdo con las necesidades académicas. 
+- Si falta alguna materia en la planificación, por favor comuníquese con el coordinador de carrera mediante correo electrónico cdia@fiec.espol.edu.ec.
+
+Modalidad híbrida: Prácticas de servicio comunitario
+----------------------------------------------------
+
+Desde el PAO I - 2026, los estudiantes de la modalidad híbrida que hayan aprobado **Programación Orientada a Objetos**, **Sistema de Bases de Datos** y **Fundamentos de Ciencia de Datos e Inteligencia Artificial** podrán realizar sus prácticas de servicio comunitario en el proyecto `Transformación Digital e Innovación <https://manglaralto-marino-digital.vercel.app/>`_.
