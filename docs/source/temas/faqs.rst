@@ -33,10 +33,10 @@ Inglés
 **Respuesta:**  No. Primero debe aprobar el MOOC de Inglés para luego poder registrarse en la materia Inglés.
 Puede consultar el proceso de registro para el MOOC de Inglés en `moocingles@espol.edu.ec`.
 
-Exámenes de Convalidación y Exámenes de Ubicación
+Exámenes de Validación y Exámenes de Ubicación
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-¿Dónde puedo obtener mayor información acerca de los exámenes de convalidación de conocimientos y exámenes de ubicación de Inglés?
+¿Dónde puedo obtener mayor información acerca de los exámenes de validación de conocimientos y exámenes de ubicación de Inglés?
 
 **Respuesta:**  Puede obtener mayor información en los correos electrónicos de **CELEX - ESPOL** que llegan a su cuenta institucional y en la cuenta `ESPOL - CELEX <https://www.instagram.com/espol.celex/>`_ en Instagram. 
 Para mayor información, consulte al correo `celex@espol.edu.ec`.
