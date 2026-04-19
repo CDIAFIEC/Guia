@@ -10,16 +10,16 @@ Consejerías académicas para el PAE - 2026
 Periodo de consejerías académicas para el PAE - 2026
 ------------------------------------------------------
 
-De acuerdo con el `calendario académico <https://www.espol.edu.ec/es/vida-politecnica/calendario-grado>`_, el periodo de consejerías académicas para el PAE - 2026 se llevará a cabo del **20 al 30 de abril**.
+De acuerdo con el `calendario académico <https://www.espol.edu.ec/es/vida-politecnica/calendario-grado>`_, en el periodo del **20 al 29 de abril**, **TODOS LOS ESTUDIANTES** tienen obligatoriedad de realizar una cita de consejería académica; caso contrario presentarán una deuda de no valor impidiendo su próximo registro.
 
 Ambas modalidades (en línea e híbrida)
 --------------------------------------
 
-* Para la planificación del PAO I - 2026, las materias propias de la carrera, aún están sujetas a cambios debido de acuerdo con las necesidades académicas.
- 
-* Si falta alguna materia en la planificación, por favor comuníquese con el coordinador de carrera mediante correo electrónico `cdia@fiec.espol.edu.ec`.
+* Planifiquen su horario de clases y de exámenes de las materias a cursar en el próximo periodo académico, considerando los requisitos de cada materia. No se asegura el cruce de horarios en materias de diferentes niveles. Para ello, pueden consultar los horarios de clases y de exámenes en la `Académico - ESPOL <https://www.academico.espol.edu.ec/>`_.
 
-* Las autoridades aún no autoriza los cambios de carrera **desde** o **hacia** la carrera Ciencia de Datos e Inteligencia Artificial. Se informará oportunamente por correo electrónico cuando se habilite esta opción.
+* Por favor comuníquense con la coordinación de la carrera mediante correo electrónico `cdia@fiec.espol.edu.ec` en caso de presentarse problemas con la planificación de los horarios de clases o de exámenes de las materias.
+
+* Las autoridades aún no autorizan los cambios de carrera **desde** o **hacia** la carrera Ciencia de Datos e Inteligencia Artificial. Se informará oportunamente por correo electrónico cuando se habilite esta opción.
 
 Modalidad híbrida
 ------------------
@@ -29,13 +29,21 @@ Prácticas de servicio comunitario
 
 Desde el PAO I - 2026, los estudiantes de la modalidad híbrida que hayan aprobado **Programación Orientada a Objetos**, **Sistema de Bases de Datos** y **Fundamentos de Ciencia de Datos e Inteligencia Artificial**, y cumplan con los requisitos, podrán realizar sus prácticas de servicio comunitario en el proyecto `Transformación Digital e Innovación <https://manglaralto-marino-digital.vercel.app/>`_.
 
+Modalidad en línea a híbrida
+----------------------------
+
+Estado del proceso
+^^^^^^^^^^^^^^^^^^
+
+Nos encontramos a la espera de la autorización de las autoridades cuando se concrete el cambio de modalidad. Se informará oportunamente por correo electrónico y por el grupo de WhatsApp cualquier nueva información. 
+
+Registro de materias
+^^^^^^^^^^^^^^^^^^^^
+
+Es probable que el proceso de registro de materias se realizará mediante **registro autorizado**; por lo que, es necesario que cada estudiante se planifique la materia y el paralelo en el que desea registrarse.
+
 Modalidad en línea
 ------------------
-
-Cambio de modalidad
-^^^^^^^^^^^^^^^^^^^^^
-
-Los estudiantes expresaron su interés en cambiar la modalidad de estudio (de *en línea* a *híbrida*), el proceso continúa de manera personalizada con los estudiantes que completaron el formulario y que manifestaron su interés en el cambio de modalidad.
 
 Suspensión de ingreso
 ^^^^^^^^^^^^^^^^^^^^^
