@@ -21,6 +21,19 @@ Ambas modalidades (en línea e híbrida)
 
 * Las autoridades aún no autorizan los cambios de carrera **desde** o **hacia** la carrera Ciencia de Datos e Inteligencia Artificial. Se informará oportunamente por correo electrónico cuando se habilite esta opción.
 
+Modalidad en línea a híbrida
+----------------------------
+
+Estado del proceso
+^^^^^^^^^^^^^^^^^^
+
+Nos encontramos a la espera de la autorización de las autoridades cuando se concrete el cambio de modalidad. Se informará oportunamente por correo electrónico y por el grupo de WhatsApp cualquier actualización. 
+
+Registro de materias
+^^^^^^^^^^^^^^^^^^^^
+
+Es probable que el proceso de registro de materias se realizará mediante **registro autorizado**; por lo que, es necesario que cada estudiante planifique las materias y los paralelos en el que desea registrarse, evitando cruces de horarios de clases y exámenes.
+
 Modalidad híbrida
 ------------------
 
@@ -41,16 +54,3 @@ Suspensión de ingreso
 ^^^^^^^^^^^^^^^^^^^^^
 
 Por disposición de las autoridades, a partir del PAO I - 2026: **no se recibirán novatos en la carrera Ciencia de Datos e Inteligencia Artificial - modalidad (CDIA) en línea.**
-
-Modalidad en línea a híbrida
-----------------------------
-
-Estado del proceso
-^^^^^^^^^^^^^^^^^^
-
-Nos encontramos a la espera de la autorización de las autoridades cuando se concrete el cambio de modalidad. Se informará oportunamente por correo electrónico y por el grupo de WhatsApp cualquier actualización. 
-
-Registro de materias
-^^^^^^^^^^^^^^^^^^^^
-
-Es probable que el proceso de registro de materias se realizará mediante **registro autorizado**; por lo que, es necesario que cada estudiante planifique las materias y los paralelos en el que desea registrarse, evitando cruces de horarios de clases y exámenes.
