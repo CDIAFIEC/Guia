@@ -57,6 +57,12 @@ Exámenes de Validación y Exámenes de Ubicación
 **Respuesta:**  Puede obtener mayor información en los correos electrónicos de **CELEX - ESPOL** que llegan a su cuenta institucional y en la cuenta `ESPOL - CELEX <https://www.instagram.com/espol.celex/>`_ en Instagram. 
 Para mayor información, consulte al correo `celex@espol.edu.ec`.
 
+Microsoft Authenticator
+-----------------------
+
+Tengo problemas el acceso a mi cuenta Microsoft Authenticator. ¿Con quién puedo resolverlos?
+
+**Respuesta:**  Para resolver problemas relacionados con el Microsoft Authenticator, puedes comunicarte con la Gerencia de Tecnologías y Sistemas de Información - ESPOL a través del correo electrónico `gerenciatecnologia@espol.edu.ec` y solicitar el **reseteo del MFA**.
 
 Reprobación, Deudas y Pagos
 ---------------------------
