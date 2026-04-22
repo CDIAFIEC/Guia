@@ -87,6 +87,13 @@ Reprobación, Deudas y Pagos
 
     **Respuesta:** La deuda debe estar cancelada hasta antes de los registros del siguiente periodo académico.
 
+    * ¿Cuál es el proceso para solicitar la prórroga?
+    
+    **Respuesta:** Debe enviar un correo electrónico a `sta@espol.edu.ec`, solicitando información sobre el proceso de prórroga, indicando su número de cédula y el motivo por el cual solicita la prórroga. La respuesta a su solicitud se le enviará a su correo institucional.
+
+    * ¿Cuántas prórrogas puedo solicitar?
+
+    **Respuesta:** Solo se puede solicitar una prórroga durante toda la carrera. Por lo tanto, si ya ha solicitado una prórroga en el pasado, no podrá solicitar otra.
 
 .. admonition:: Caso 2
 
