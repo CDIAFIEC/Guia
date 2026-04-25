@@ -10,11 +10,12 @@ Registro de materias
 Planificación
 -------------
 
-Sin importar la modalidad de las materias, es importante planificar tu carga académica. Para esto, puedes revisar tu malla y los horarios disponibles para cada materia. 
+1. Accede a la malla de tu modalidad de estudios. 
 
-**Nota:** Asegúrate de considerar tus responsabilidades personales y laborales al elegir tus materias.
+   - `Híbrida <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-hibrida>`_ 
+   - `En Línea <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-online>`_
 
-1. Identifica el código de la materia que deseas planificar, de acuerdo con la modalidad, por ejemplo:
+2. Identifica el nombre de la materia y las horas (teóricas, prácticas y autónomas) que deseas planificar. Los códigos sirven para diferenciar la modalidad de la materia.
 
 .. info-card::
 
@@ -22,41 +23,55 @@ Sin importar la modalidad de las materias, es importante planificar tu carga aca
         :columns: 12
 
         | **Nombre** FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
-        | **Horas teóricas** 3
+        | **Horas teóricas**  3
         | **Horas prácticas** 1
         | **Horas autónomas** 5
 
-    .. grid-item::
-        :columns: 6
+    .. grid:: 2
 
-        :tags-primary:`híbrida`
+        .. grid-item-card::  Híbrida
 
-        | **Modalidad** `Híbrida <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-hibrida>`_ 
-        | **Código** CDIAG1003
+            **CDIAG1003**
 
-        .. image:: ../archivos/CDIAG1003.png
-            :alt: CDIAG1003
+            .. image:: ../archivos/CDIAG1003.png
+                :alt: CDIAG1003
+                :width: 80%
+                :align: center
+
+        .. grid-item-card::  En Línea
+
+            **CDIAG1811**
+
+            .. image:: ../archivos/CDIAG1811.png
+                :alt: CDIAG1811
+                :width: 80%
+                :align: center
+
+
+3. Consulta el horario disponible para esa materia en el `Académico en Línea <https://www.academico.espol.edu.ec/>`_.
+
+.. grid:: 2
+
+    .. grid-item-card::  Híbrida
+
+        .. image:: ../archivos/CDIAG1003_horario.png
+            :alt: CDIAG1003 horario
             :width: 80%
             :align: center
 
-    .. grid-item::
-        :columns: 6
+    .. grid-item-card::  En Línea
 
-        :tags-secondary:`en línea`
-
-        | **Modalidad** `En Línea <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-online>`_
-        | **Código** CDIAG1811
-
-        .. image:: ../archivos/CDIAG1811.png
-            :alt: CDIAG1811
+        .. image:: ../archivos/CDIAG1811_horario.png
+            :alt: CDIAG1811 horario
             :width: 80%
             :align: center
 
+4. Anota los horarios de las materias, tanto de los horas teóricas como de las horas prácticas. Puedes usar un archivo en excel, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`_.
 
-1. Consulta el horario disponible para esa materia en el `Académico en Línea <https://www.academico.espol.edu.ec/>`_.
-2. Anota los horarios de las materias, tanto de los horas teóricas como de las horas prácticas. Puedes usar un archivo en excel, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`_.
-3. Revisa si hay materias que se superponen en horarios y ajusta tu planificación en consecuencia.
-       
+.. image:: ../archivos/CDIAG1811_horario.png
+    :alt: CDIAG1811 horario
+    :width: 80%
+    :align: center
 
 Guía de matriculación
 ---------------------
