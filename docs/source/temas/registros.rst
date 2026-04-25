@@ -16,29 +16,29 @@ Sin importar la modalidad de las materias, es importante planificar tu carga aca
 
 1. Identifica el código de la materia que deseas planificar.
 
-    .. info-card::
+.. info-card::
 
-        .. grid-item::
-            :columns: 8
+    .. grid-item::
+        :columns: 8
 
-            `example.org <https://example.org/>`_
+        `example.org <https://example.org/>`_
 
-            | A module for collecting votes from beagles,
-            | and for consolidating them.
+        | A module for collecting votes from beagles,
+        | and for consolidating them.
 
-            | **Author:** C. Schultz, Universal Features Syndicate
-            | **Contact:** Los Angeles, CA; <cschultz@peanuts.example.org>
+        | **Author:** C. Schultz, Universal Features Syndicate
+        | **Contact:** Los Angeles, CA; <cschultz@peanuts.example.org>
 
-        .. grid-item::
-            :columns: 4
+    .. grid-item::
+        :columns: 4
 
-            :tags-primary:`foo, bar`
+        :tags-primary:`foo, bar`
 
-            :tags-success:`baz`
+        :tags-success:`baz`
 
-            :tags-secondary:`qux`
+        :tags-secondary:`qux`
 
-            :tags-info:`anything else`
+        :tags-info:`anything else`
 
 2. Consulta el horario disponible para esa materia en el `Académico en Línea <https://www.academico.espol.edu.ec/>`.
 3. Anota los horarios de las materias, tanto de los horas teóricas como de las horas prácticas. Puedes usar un archivo en excel, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`.
