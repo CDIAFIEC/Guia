@@ -16,41 +16,41 @@ Sin importar la modalidad de las materias, es importante planificar tu carga aca
 
 1. Identifica el código de la materia que deseas planificar, de acuerdo con la modalidad, por ejemplo:
 
-.. info-card::
+  .. info-card::
 
-    .. grid-item::
-        :columns: 6
+      .. grid-item::
+          :columns: 6
 
-        .. image:: ../archivos/CDIAG1003.png
-            :alt: CDIAG1003
-            :width: 100%
-            :align: center
-        
-        | **Modalidad Híbrida** 
-        | **Código** CDIAG1003
-        | **Nombre** FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
-        | **Horas teóricas** 3
-        | **Horas prácticas** 1
-        | **Horas autónomas** 5
-        
-        :tags-primary:`híbrida`
+          .. image:: ../archivos/CDIAG1003.png
+              :alt: CDIAG1003
+              :width: 100%
+              :align: center
+          
+          | **Modalidad** `Híbrida <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-hibrida>`_ 
+          | **Código** CDIAG1003
+          | **Nombre** FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+          | **Horas teóricas** 3
+          | **Horas prácticas** 1
+          | **Horas autónomas** 5
+          
+          :tags-primary:`híbrida`
 
-    .. grid-item::
-        :columns: 6
+      .. grid-item::
+          :columns: 6
 
-        .. image:: ../archivos/CDIAG1811.png
-            :alt: CDIAG1811
-            :width: 100%
-            :align: center
+          .. image:: ../archivos/CDIAG1811.png
+              :alt: CDIAG1811
+              :width: 100%
+              :align: center
 
-        | **Modalidad En línea** 
-        | **Código** CDIAG1811
-        | **Nombre** FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
-        | **Horas teóricas** 3
-        | **Horas prácticas** 1
-        | **Horas autónomas** 5
+          | **Modalidad** `En Línea <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-online>`_
+          | **Código** CDIAG1811
+          | **Nombre** FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+          | **Horas teóricas** 3
+          | **Horas prácticas** 1
+          | **Horas autónomas** 5
 
-        :tags-primary:`en línea`
+          :tags-secondary:`en línea`
 
 2. Consulta el horario disponible para esa materia en el `Académico en Línea <https://www.academico.espol.edu.ec/>`_.
 3. Anota los horarios de las materias, tanto de los horas teóricas como de las horas prácticas. Puedes usar un archivo en excel, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`_.
