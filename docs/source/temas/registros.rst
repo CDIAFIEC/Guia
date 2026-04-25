@@ -23,7 +23,7 @@ Sin importar la modalidad de las materias, es importante planificar tu carga aca
 
           .. image:: ../archivos/CDIAG1003.png
               :alt: CDIAG1003
-              :width: 100%
+              :width: 80%
               :align: center
           
           | **Modalidad** `Híbrida <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-hibrida>`_ 
@@ -40,7 +40,7 @@ Sin importar la modalidad de las materias, es importante planificar tu carga aca
 
           .. image:: ../archivos/CDIAG1811.png
               :alt: CDIAG1811
-              :width: 100%
+              :width: 80%
               :align: center
 
           | **Modalidad** `En Línea <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-online>`_
