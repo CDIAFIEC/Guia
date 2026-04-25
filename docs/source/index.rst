@@ -17,7 +17,6 @@ Bienvenido a la Guía del Estudiante con recomendaciones generales como estudian
 
             temas/consejerias/pae_2026
             temas/generalidades
-            temas/planificacion
             temas/registros
             temas/correos
             temas/faqs
