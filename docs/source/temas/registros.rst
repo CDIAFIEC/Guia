@@ -14,34 +14,46 @@ Sin importar la modalidad de las materias, es importante planificar tu carga aca
 
 **Nota:** Asegúrate de considerar tus responsabilidades personales y laborales al elegir tus materias.
 
-1. Identifica el código de la materia que deseas planificar.
+1. Identifica el código de la materia que deseas planificar, de acuerdo con la modalidad, por ejemplo:
 
 .. info-card::
 
     .. grid-item::
-        :columns: 8
+        :columns: 6
 
-        `example.org <https://example.org/>`_
-
-        | A module for collecting votes from beagles,
-        | and for consolidating them.
-
-        | **Author:** C. Schultz, Universal Features Syndicate
-        | **Contact:** Los Angeles, CA; <cschultz@peanuts.example.org>
+        .. image:: ../archivos/CDIAG1003.png
+            :alt: CDIAG1003
+            :width: 100%
+            :align: center
+        
+        | **Modalidad Híbrida** 
+        | **Código** CDIAG1003
+        | **Nombre** FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+        | **Horas teóricas** 3
+        | **Horas prácticas** 1
+        | **Horas autónomas** 5
+        
+        :tags-primary:`híbrida`
 
     .. grid-item::
-        :columns: 4
+        :columns: 6
 
-        :tags-primary:`foo, bar`
+        .. image:: ../archivos/CDIAG1811.png
+            :alt: CDIAG1811
+            :width: 100%
+            :align: center
 
-        :tags-success:`baz`
+        | **Modalidad En línea** 
+        | **Código** CDIAG1811
+        | **Nombre** FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+        | **Horas teóricas** 3
+        | **Horas prácticas** 1
+        | **Horas autónomas** 5
 
-        :tags-secondary:`qux`
+        :tags-primary:`en línea`
 
-        :tags-info:`anything else`
-
-2. Consulta el horario disponible para esa materia en el `Académico en Línea <https://www.academico.espol.edu.ec/>`.
-3. Anota los horarios de las materias, tanto de los horas teóricas como de las horas prácticas. Puedes usar un archivo en excel, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`.
+2. Consulta el horario disponible para esa materia en el `Académico en Línea <https://www.academico.espol.edu.ec/>`_.
+3. Anota los horarios de las materias, tanto de los horas teóricas como de las horas prácticas. Puedes usar un archivo en excel, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`_.
 4. Revisa si hay materias que se superponen en horarios y ajusta tu planificación en consecuencia.
        
 
