@@ -14,30 +14,25 @@ Planificación
 
 2. Identifica el nombre de la materia que deseas planificar. Los códigos sirven para diferenciar la modalidad de la materia.
 
-.. info-card::
+.. grid:: 2
 
-    FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    .. grid-item-card::  Híbrida
 
-    .. grid:: 2
+        **CDIAG1003 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL**
 
-        .. grid-item-card::  Híbrida
+        .. image:: ../archivos/CDIAG1003.png
+            :alt: CDIAG1003
+            :width: 80%
+            :align: center
 
-            **CDIAG1003**
+    .. grid-item-card::  En Línea
 
-            .. image:: ../archivos/CDIAG1003.png
-                :alt: CDIAG1003
-                :width: 80%
-                :align: center
+        **CDIAG1811 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL**
 
-        .. grid-item-card::  En Línea
-
-            **CDIAG1811**
-
-            .. image:: ../archivos/CDIAG1811.png
-                :alt: CDIAG1811
-                :width: 80%
-                :align: center
+        .. image:: ../archivos/CDIAG1811.png
+            :alt: CDIAG1811
+            :width: 80%
+            :align: center
 
 3. Anota las horas teóricas, horas prácticas y horas autónomas de la materia, p.e.:
 
