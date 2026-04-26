@@ -12,17 +12,18 @@ Planificación
 
 1. Según tu modalidad de estudio, accede a la malla `híbrida <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029>`_ o `en Línea <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030>`_.
 
-2. Identifica el nombre de la materia que deseas planificar, por ejemplo: **FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL**. Los códigos sirven para diferenciar la modalidad de la materia.
+2. Identifica el nombre de la materia que deseas planificar. Los códigos sirven para diferenciar la modalidad de la materia.
 
 .. grid:: 2
 
-    FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    
+    **FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL**
+
     .. grid-item-card::
 
         .. shield::
-            :message: Híbrida - CDIAG1003
+            :label: Híbrida
+            :message: CDIAG1003
+            :label-color: darkgreen
             :message-color: orange
             :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029
             :link-type: url
@@ -36,8 +37,10 @@ Planificación
     .. grid-item-card::
 
         .. shield::
-            :message: En Línea - CDIAG1811
-            :message-color: blue
+            :label: En Línea
+            :message: CDIAG1811
+            :label-color: hsl(270,60%,70%)
+            :message-color: rgb(255,0,153)
             :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030
             :link-type: url
 
@@ -51,27 +54,26 @@ Planificación
 
 .. card:: FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
 
-    | **Horas teóricas**  3
-    | **Horas prácticas** 1
-    | **Horas autónomas** 5
-
     .. sd-table::
         :widths: 3 9
 
         .. sd-row::
-            .. sd-item:: **What**
-            .. sd-item:: **Description**
+            .. sd-item:: **Horas**
+            .. sd-item:: **Cantidad**
 
         .. sd-row::
-            .. sd-item:: Fox
-            .. sd-item::
-                The quick brown fox jumps over the lazy dog.
+            .. sd-item:: Teóricas
+            .. sd-item:: 3
 
         .. sd-row::
-            .. sd-item:: Franz
-            .. sd-item::
-                Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.
-
+            .. sd-item:: Prácticas
+            .. sd-item:: 1
+        
+        .. sd-row::
+            .. sd-item:: Autónomas
+            .. sd-item:: 5
+        
+       
 4. Consulta `Académico en Línea <https://www.academico.espol.edu.ec/>`_ y registra el **paralelo teórico** y el **paralelo práctico** de la materia. El paralelo práctico se puede seleccionar haciendo clic en **Paralelos Asociados**.
 
 .. grid:: 2
