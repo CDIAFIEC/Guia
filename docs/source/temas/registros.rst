@@ -10,22 +10,14 @@ Registro de materias
 Planificación
 -------------
 
-1. Accede a la malla de tu modalidad de estudios. 
+1. Según tu modalidad de estudio, accede a la malla `híbrida <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029>`_ o `en Línea <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030>`_.
 
-   - `Híbrida <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-hibrida>`_ 
-   - `En Línea <https://www.fiec.espol.edu.ec/es/carreras-de-grado/ciencia-de-datos-e-inteligencia-artificial-online>`_
-
-2. Identifica el nombre de la materia y las horas (teóricas, prácticas y autónomas) que deseas planificar. Los códigos sirven para diferenciar la modalidad de la materia.
+2. Identifica el nombre de la materia que deseas planificar. Los códigos sirven para diferenciar la modalidad de la materia.
 
 .. info-card::
 
-    .. grid-item::
-        :columns: 12
-
-        | **Nombre** FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
-        | **Horas teóricas**  3
-        | **Horas prácticas** 1
-        | **Horas autónomas** 5
+    FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
     .. grid:: 2
 
@@ -47,8 +39,15 @@ Planificación
                 :width: 80%
                 :align: center
 
+3. Anota las horas teóricas, horas prácticas y horas autónomas de la materia, p.e.:
 
-3. Consulta el horario disponible para esa materia en el `Académico en Línea <https://www.academico.espol.edu.ec/>`_.
+.. card:: FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+
+    | **Horas teóricas**  3
+    | **Horas prácticas** 1
+    | **Horas autónomas** 5
+
+4. Consulta `Académico en Línea <https://www.academico.espol.edu.ec/>`_ y registra las horas teóricas y prácticas de la materia. Haz clic **Paralelos Asociados** para ver las horas prácticas de la materia.
 
 .. grid:: 2
 
@@ -66,10 +65,17 @@ Planificación
             :width: 80%
             :align: center
 
-4. Anota los horarios de las materias, tanto de los horas teóricas como de las horas prácticas. Puedes usar un archivo en excel, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`_.
+4. Planifica horas teóricas y prácticas de la materia. Puedes usar una hoja de cálculo, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`_.
 
-.. image:: ../archivos/CDIAG1811_horario.png
-    :alt: CDIAG1811 horario
+.. image:: ../archivos/poliplanifica.png
+    :alt: Planificación de materias teóricas y prácticas
+    :width: 80%
+    :align: center
+
+5. Revisa el horario de la materia (horas prácticas y teóricas) y asegúrate de que no haya conflictos con otras materias que hayas registrado.
+
+.. image:: ../archivos/horarioplanificado.png
+    :alt: Horario planificado
     :width: 80%
     :align: center
 
