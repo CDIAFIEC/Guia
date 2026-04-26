@@ -47,8 +47,7 @@ Planificación
             :width: 80%
             :align: center
 
-3. Anota las horas teóricas, horas prácticas y horas autónomas de la materia, p.e.:
-
+3. Considera las horas teóricas, horas prácticas y horas autónomas de la materia.
 
 .. card:: FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
 
@@ -72,7 +71,7 @@ Planificación
             .. sd-item:: 5
         
        
-4. Consulta `Académico en Línea <https://www.academico.espol.edu.ec/>`_ y registra el **paralelo teórico** y el **paralelo práctico** de la materia. El paralelo práctico se puede seleccionar haciendo clic en **Paralelos Asociados**.
+4. Consulta `Académico en Línea <https://www.academico.espol.edu.ec/>`_ y registra ambos paralelos (el **paralelo teórico** y el **paralelo práctico**) de la materia. Haz clic en **Paralelos Asociados** para seleccionar el paralelo práctico de la materia.
 
 .. grid:: 2
 
@@ -90,14 +89,14 @@ Planificación
             :width: 80%
             :align: center
 
-4. Planifica el **paralelo teórico** y el **paralelo práctico** de la materia. Puedes usar una hoja de cálculo, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`_, p.e.:
+4. Planifica ambos paralelos de la materia. Puedes usar una hoja de cálculo, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`_, p.e.:
 
 .. image:: ../archivos/poliplanifica.png
     :alt: Planificación de materias teóricas y prácticas
     :width: 80%
     :align: center
 
-5. Revisa el horario de la materia (el **paralelo teórico** y el **paralelo práctico**) y asegúrate de que no haya conflictos con las horas de clases, ni con los exámenes.
+5. Revisa el horario de ambos paralelos de la materia y asegúrate de que no haya conflictos con las horas de clases, ni con los exámenes.
 
 .. image:: ../archivos/horarioplanificado.png
     :alt: Horario planificado
