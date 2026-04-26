@@ -18,12 +18,12 @@ Planificación
 
     .. grid-item-card::  CDIAG1003 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
 
-        :::{shield}
-        :message: Híbrida
-        :message-color: orange
-        :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029
-        :link-type: url
-        :::
+        .. shield::
+            :message: Híbrida
+            :message-color: orange
+            :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029
+            :link-type: url
+        
 
         .. image:: ../archivos/CDIAG1003.png
             :alt: CDIAG1003
@@ -32,12 +32,11 @@ Planificación
 
     .. grid-item-card::  CDIAG1811 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
 
-        :::{shield}
-        :message: En Línea
-        :message-color: blue
-        :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030
-        :link-type: url
-        :::
+        .. shield::
+            :message: En Línea
+            :message-color: blue
+            :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030
+            :link-type: url
 
         .. image:: ../archivos/CDIAG1811.png
             :alt: CDIAG1811
