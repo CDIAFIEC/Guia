@@ -12,22 +12,32 @@ Planificación
 
 1. Según tu modalidad de estudio, accede a la malla `híbrida <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029>`_ o `en Línea <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030>`_.
 
-2. Identifica el nombre de la materia que deseas planificar. Los códigos sirven para diferenciar la modalidad de la materia.
+2. Identifica el nombre de la materia que deseas planificar, por ejemplo: **FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL**. Los códigos sirven para diferenciar la modalidad de la materia.
 
 .. grid:: 2
 
-    .. grid-item-card::  Híbrida
+    .. grid-item-card::  CDIAG1003 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
 
-        **CDIAG1003 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL**
+        :::{shield}
+        :message: Híbrida
+        :message-color: orange
+        :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029
+        :link-type: url
+        :::
 
         .. image:: ../archivos/CDIAG1003.png
             :alt: CDIAG1003
             :width: 80%
             :align: center
 
-    .. grid-item-card::  En Línea
+    .. grid-item-card::  CDIAG1811 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
 
-        **CDIAG1811 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL**
+        :::{shield}
+        :message: En Línea
+        :message-color: blue
+        :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030
+        :link-type: url
+        :::
 
         .. image:: ../archivos/CDIAG1811.png
             :alt: CDIAG1811
