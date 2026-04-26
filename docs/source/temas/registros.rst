@@ -16,10 +16,13 @@ Planificación
 
 .. grid:: 2
 
-    .. grid-item-card::  CDIAG1003 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+    FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    
+    .. grid-item-card::
 
         .. shield::
-            :message: Híbrida
+            :message: Híbrida - CDIAG1003
             :message-color: orange
             :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029
             :link-type: url
@@ -30,10 +33,10 @@ Planificación
             :width: 80%
             :align: center
 
-    .. grid-item-card::  CDIAG1811 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+    .. grid-item-card::
 
         .. shield::
-            :message: En Línea
+            :message: En Línea - CDIAG1811
             :message-color: blue
             :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030
             :link-type: url
@@ -45,11 +48,29 @@ Planificación
 
 3. Anota las horas teóricas, horas prácticas y horas autónomas de la materia, p.e.:
 
+
 .. card:: FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
 
     | **Horas teóricas**  3
     | **Horas prácticas** 1
     | **Horas autónomas** 5
+
+    .. sd-table::
+        :widths: 3 9
+
+        .. sd-row::
+            .. sd-item:: **What**
+            .. sd-item:: **Description**
+
+        .. sd-row::
+            .. sd-item:: Fox
+            .. sd-item::
+                The quick brown fox jumps over the lazy dog.
+
+        .. sd-row::
+            .. sd-item:: Franz
+            .. sd-item::
+                Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.
 
 4. Consulta `Académico en Línea <https://www.academico.espol.edu.ec/>`_ y registra el **paralelo teórico** y el **paralelo práctico** de la materia. El paralelo práctico se puede seleccionar haciendo clic en **Paralelos Asociados**.
 
