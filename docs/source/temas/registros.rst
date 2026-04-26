@@ -51,7 +51,7 @@ Planificación
     | **Horas prácticas** 1
     | **Horas autónomas** 5
 
-4. Consulta `Académico en Línea <https://www.academico.espol.edu.ec/>`_ y registra las horas teóricas y prácticas de la materia. Haz clic **Paralelos Asociados** para ver las horas prácticas de la materia.
+4. Consulta `Académico en Línea <https://www.academico.espol.edu.ec/>`_ y registra el **paralelo teórico** y el **paralelo práctico** de la materia. El paralelo práctico se puede seleccionar haciendo clic en **Paralelos Asociados**.
 
 .. grid:: 2
 
@@ -69,14 +69,14 @@ Planificación
             :width: 80%
             :align: center
 
-4. Planifica horas teóricas y prácticas de la materia. Puedes usar una hoja de cálculo, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`_.
+4. Planifica el **paralelo teórico** y el **paralelo práctico** de la materia. Puedes usar una hoja de cálculo, programar tu propia aplicación o utilizar la extensión `PoliPlanifica <https://chromewebstore.google.com/detail/poliplanifica/lnielcenbbmofigenbdcdbjdcdbfbcko>`_, p.e.:
 
 .. image:: ../archivos/poliplanifica.png
     :alt: Planificación de materias teóricas y prácticas
     :width: 80%
     :align: center
 
-5. Revisa el horario de la materia (horas prácticas y teóricas) y asegúrate de que no haya conflictos con otras materias que hayas registrado.
+5. Revisa el horario de la materia (el **paralelo teórico** y el **paralelo práctico**) y asegúrate de que no haya conflictos con las horas de clases, ni con los exámenes.
 
 .. image:: ../archivos/horarioplanificado.png
     :alt: Horario planificado
