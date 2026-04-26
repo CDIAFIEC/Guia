@@ -49,7 +49,7 @@ Planificación
 
 3. Considera las horas teóricas, horas prácticas y horas autónomas de la materia.
 
-.. card:: FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+.. card:: Horas de la materia
 
     .. sd-table::
         :widths: 3 9
