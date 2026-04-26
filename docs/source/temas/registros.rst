@@ -12,7 +12,7 @@ Planificación
 
 1. Según tu modalidad de estudio, accede a la malla `híbrida <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029>`_ o `en Línea <https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030>`_.
 
-2. Identifica el nombre de la materia que deseas planificar. Los códigos sirven para diferenciar la modalidad de la materia.
+2. Identifica el nombre de la materia que deseas planificar. Los códigos sirven para diferenciar la modalidad de la materia. Por ejemplo: **FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL**. 
 
 .. grid:: 2
 
@@ -20,7 +20,7 @@ Planificación
 
         .. shield::
             :label: Híbrida
-            :message: CDIAG1003 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+            :message: CDIAG1003
             :label-color: darkgreen
             :message-color: orange
             :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI029
@@ -36,7 +36,7 @@ Planificación
 
         .. shield::
             :label: En Línea
-            :message: CDIAG1811 - FUNDAMENTOS DE CIENCIA DE DATOS E INTELIGENCIA ARTIFICIAL
+            :message: CDIAG1811
             :label-color: hsl(270,60%,70%)
             :message-color: rgb(255,0,153)
             :link: https://mallacurricular.espol.edu.ec/Malla/Imagen?codCarrera=CI030
