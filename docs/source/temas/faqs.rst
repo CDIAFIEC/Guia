@@ -64,6 +64,25 @@ Tengo problemas el acceso a mi cuenta Microsoft Authenticator. ¿Con quién pued
 
 **Respuesta:**  Para resolver problemas relacionados con el Microsoft Authenticator, puedes comunicarte con la Gerencia de Tecnologías y Sistemas de Información - ESPOL a través del correo electrónico `gerenciatecnologia@espol.edu.ec` y solicitar el **reseteo del MFA**.
 
+
+Registros de Materias
+---------------------
+
+Ampliación
+^^^^^^^^^^
+
+¿Dónde puedo realizar la ampliación de materias?
+
+**Respuesta:**  La ampliación de materias se realiza a través del Académico en Línea. El proceso de ampliación de materias se habilita durante la semana de registros académicos.
+
+¿Cuándo puedo obtener una respuesta a mi solicitud de ampliación de materias?
+
+**Respuesta:**  La respuesta a la solicitud de ampliación de materias se comunica durante la semana de registros académicos.
+
+¿De qué depende la aprobación o rechazo de la solicitud de ampliación de materias?
+
+**Respuesta:**  La aprobación o rechazo de la solicitud de ampliación de materias depende del criterio del coordinador de cada materia, de acuerdo con la disponibilidad de cupos en la materia, el cumplimiento de los prerrequisitos, el historial académico del estudiante y orden de llegada de la solicitud.
+
 Reprobación, Deudas y Pagos
 ---------------------------
 
