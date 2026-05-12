@@ -60,6 +60,14 @@ Para mayor información, consulte al correo `celex@espol.edu.ec`.
 Microsoft Authenticator
 -----------------------
 
+¿Cómo funciona el Microsoft Authenticator?
+
+**Respuesta:**  El Microsoft Authenticator es una aplicación de autenticación de dos factores que proporciona una capa adicional de seguridad para proteger tu cuenta. 
+
+Funciona generando códigos de verificación temporales que debes ingresar junto con tu contraseña al iniciar sesión en tu cuenta. Esto ayuda a prevenir accesos no autorizados incluso si alguien obtiene tu contraseña.
+
+Lea el [manual de Gerencia de Tecnologías de la ESPOL](../archivos/Aplicacion-COD-Final.pdf), acerca del uso Microsoft Authenticator para obtener más información sobre su funcionamiento y características.
+
 Tengo problemas el acceso a mi cuenta Microsoft Authenticator. ¿Con quién puedo resolverlos?
 
 **Respuesta:**  Para resolver problemas relacionados con el Microsoft Authenticator, puedes comunicarte con la Gerencia de Tecnologías y Sistemas de Información - ESPOL a través del correo electrónico `gerenciatecnologia@espol.edu.ec` y solicitar el **reseteo del MFA**.
