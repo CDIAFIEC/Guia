@@ -66,7 +66,11 @@ Microsoft Authenticator
 
 Funciona generando códigos de verificación temporales que debes ingresar junto con tu contraseña al iniciar sesión en tu cuenta. Esto ayuda a prevenir accesos no autorizados incluso si alguien obtiene tu contraseña.
 
-Lea el [manual de Gerencia de Tecnologías de la ESPOL](../archivos/Aplicacion-COD-Final.pdf), acerca del uso Microsoft Authenticator para obtener más información sobre su funcionamiento y características.
+Lea el manual de Gerencia de Tecnologías de la ESPOL, acerca del uso Microsoft Authenticator para obtener más información sobre su funcionamiento y características.
+
+.. pdf-include:: ../_static/pdf/Aplicacion-COD-Final.pdf
+   :width: 100%
+   :height: 600px
 
 Tengo problemas el acceso a mi cuenta Microsoft Authenticator. ¿Con quién puedo resolverlos?
 
