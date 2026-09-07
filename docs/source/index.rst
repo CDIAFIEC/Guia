@@ -15,8 +15,8 @@ Bienvenido a la Guía del Estudiante con recomendaciones generales como estudian
             :caption: Contenidos
             :glob:
 
-            temas/consejerias/generalidades
             temas/generalidades
+            temas/consejerias/generalidades
             temas/registros
             temas/correos
             temas/faqs
