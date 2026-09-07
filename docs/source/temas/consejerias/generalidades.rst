@@ -16,24 +16,27 @@ Procedimiento para agendar la cita de consejería académica
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Ingrese a la plataforma `Sistema de Consejerías Académicas <https://consejerias.espol.edu.ec/>`_ con su usuario y contraseña.
-2. Seleccione la opción "Agendar cita" y elija la fecha y hora disponible que mejor se ajuste a su horario. En caso de no encontrar disponibilidad, puede comunicarse con la coordinación de la carrera mediante correo electrónico. 
+2. Seleccione la opción "Agendar cita" y elija la fecha y hora disponible que mejor se ajuste a su horario. 
 
-Gracias por su paciencia y comprensión con el agendamiento de citas, ya que la demanda puede ser alta y las fechas limitadas.
+Consideraciones importantes:
 
-**Nota:** La cita de consejería académica es personal e intransferible. No se permite que otra persona asista en su lugar. 
+- Tengamos paciencia y comprensión con el agendamiento de citas, ya que la demanda puede ser alta y las fechas limitadas.
+- La cita de consejería académica es personal e intransferible. No se permite que otra persona asista en su lugar.
+- En caso de no encontrar disponibilidad, puede comunicarse con la coordinación de la carrera mediante correo electrónico. 
 
 Obligatoriedad de la cita de consejería académica
 -------------------------------------------------
 
 De acuerdo con su situación académica la cita de consejería académica puede ser, o no, obligatoria.
 
-Dentro del periodo académico, los estudiantes tienen obligatoriedad de asistir bajo una de las siguientes condiciones:
+**Al inicio del periodo académico**, todos los estudiantes están obligaddos de asistir a la consejería académica.
+
+**Durante del periodo académico**, los estudiantes tienen obligatoriedad de asistir bajo una de las siguientes condiciones:
 
 - Promedio general menor a 6.5.
 - Repitiendo 2 o más materias.
 - Cursar su primer término académico.
 - Estudiantes a prueba.
-
 
 Recomendaciones Generales
 ---------------------------------------
