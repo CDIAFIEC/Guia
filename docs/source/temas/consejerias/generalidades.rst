@@ -12,6 +12,16 @@ Periodo de consejerías académicas
 
 En el `calendario académico <https://www.espol.edu.ec/es/vida-politecnica/calendario-grado>`_ pueden encontrar las fechas de las consejerías académicas. 
 
+Procedimiento para agendar la cita de consejería académica
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. Ingrese a la plataforma `Sistema de Consejerías Académicas <https://consejerias.espol.edu.ec/>`_ con su usuario y contraseña.
+2. Seleccione la opción "Agendar cita" y elija la fecha y hora disponible que mejor se ajuste a su horario. En caso de no encontrar disponibilidad, puede comunicarse con la coordinación de la carrera mediante correo electrónico. 
+
+Gracias por su paciencia y comprensión con el agendamiento de citas, ya que la demanda puede ser alta y las fechas limitadas.
+
+**Nota:** La cita de consejería académica es personal e intransferible. No se permite que otra persona asista en su lugar. 
+
 Obligatoriedad de la cita de consejería académica
 -------------------------------------------------
 
