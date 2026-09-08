@@ -46,6 +46,38 @@ Disponibilidad de materias
 
 Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la disponibilidad de los docentes de cada unidad académica. Por lo que, es necesario que cada estudiante planifique las materias y los paralelos en los que desea registrarse.
 
+.. grid:: 2
+
+    .. grid-item-card::  Materia disponible para el registro
+
+         .. sd-table::
+            :widths: 3 9
+
+            .. sd-row::
+                .. sd-item:: **Código**
+                .. sd-item:: **Nombre**
+                .. sd-item:: **Modalidad**
+            
+            .. sd-row::
+                .. sd-item:: IDIG2012
+                .. sd-item:: Comunicación
+                .. sd-item:: **E-learning** o Presencial
+
+    .. grid-item-card::  Materia homologable
+
+         .. sd-table::
+            :widths: 3 9
+
+            .. sd-row::
+                .. sd-item:: **Código**
+                .. sd-item:: **Nombre**
+                .. sd-item:: **Modalidad**
+            
+            .. sd-row::
+                .. sd-item:: IDIG1801
+                .. sd-item:: Comunicación
+                .. sd-item:: En línea
+
 .. list-table::
    :header-rows: 2
    :widths: 15 35 15 15 15
