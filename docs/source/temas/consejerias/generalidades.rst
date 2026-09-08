@@ -46,12 +46,43 @@ Disponibilidad de materias
 
 Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la disponibilidad de los docentes de cada unidad académica. Por lo que, es necesario que cada estudiante planifique las materias y los paralelos en los que desea registrarse.
 
-| Materia disponible para el registro |                                    |                            | Materia homologable      |               |
-| ----------------------------------- | ---------------------------------- | -------------------------- | ------------------------ | ------------- |
-| **Código de la materia**            | **Materia**                        | **Modalidad**              | **Código de la materia** | **Modalidad** |
-| IDIG2012                            | Comunicación                       | Presencial o E-learning    | IDIG1801                 | En línea      |
-| INDG1033                            | Análisis y Resolución de Problemas | Presencial o E-learning    | INDG1801                 | En línea      |
-| ADMG1005                            | Emprendimiento e Innovación        | Presencial o E-learning    | ADMG1801                 | En línea      |
+.. list-table::
+   :header-rows: 1
+   :widths: 15 35 15 15 15
+
+   * - Código
+     - Materia
+     - Modalidad disponible
+     - Código homologable
+     - Modalidad homologable
+   * - IDIG2012
+     - Comunicación
+     - Presencial
+     - IDIG1801
+     - En línea
+   * - INDG1033
+     - Análisis y Resolución de Problemas
+     - Presencial
+     - INDG1801
+     - En línea
+   * - ADMG1005
+     - Emprendimiento e Innovación
+     - Presencial
+     - ADMG1801
+     - En línea
+
++--------------------------------------------------------------+-----------------------------------+
+| Materia disponible para el registro                          | Materia homologable               |
++===============+==============================+===============+=================+=================+
+| Código        | Materia                      | Modalidad     | Código          | Modalidad       |
++===============+==============================+===============+=================+=================+
+| IDIG2012      | Comunicación                 | Presencial    | IDIG1801        | En línea        |
++---------------+------------------------------+---------------+-----------------+-----------------+
+| INDG1033      | Análisis y Resolución de     | Presencial    | INDG1801        | En línea        |
+|               | Problemas                    |               |                 |                 |
++---------------+------------------------------+---------------+-----------------+-----------------+
+| ADMG1005      | Emprendimiento e Innovación  | Presencial    | ADMG1801        | En línea        |
++---------------+------------------------------+---------------+-----------------+-----------------+
 
 
 Registros
