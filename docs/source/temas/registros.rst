@@ -106,6 +106,6 @@ Planificación
 Guía de matriculación
 ---------------------
 
-.. pdf-include:: ../_static/pdf/guiadematriculacion20261.pdf
+.. pdf-include:: ../_static/pdf/guiadematriculacion20262.pdf
    :width: 100%
    :height: 600px
