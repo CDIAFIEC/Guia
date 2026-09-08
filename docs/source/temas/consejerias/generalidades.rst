@@ -50,7 +50,7 @@ Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la dis
   <thead>
     <tr>
       <th colspan="3">Materia disponible para el registro</th>
-      <th colspan="2">Materia homologable</th>
+      <th colspan="2">Materia homologable en la malla</th>
     </tr>
     <tr>
       <th>Código de la materia</th>
