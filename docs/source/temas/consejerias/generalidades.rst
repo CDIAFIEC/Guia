@@ -47,7 +47,6 @@ Disponibilidad de materias
 Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la disponibilidad de los docentes de cada unidad académica. Por lo que, es necesario que cada estudiante planifique las materias y los paralelos en los que desea registrarse.
 
 .. grid:: 2
-    :padding: 1em
 
     .. grid-item-card::  Materia disponible para el registro
 
