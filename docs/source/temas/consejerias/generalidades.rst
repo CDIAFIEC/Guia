@@ -47,14 +47,19 @@ Disponibilidad de materias
 Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la disponibilidad de los docentes de cada unidad académica. Por lo que, es necesario que cada estudiante planifique las materias y los paralelos en los que desea registrarse.
 
 .. list-table::
-   :header-rows: 1
+   :header-rows: 2
    :widths: 15 35 15 15 15
 
-   * - Código 2
+   * - Materia disponible para el registro
+     -
+     -
+     - Materia homologable
+     -
+   * - Código de la materia
      - Materia
-     - Modalidad disponible
-     - Código homologable
-     - Modalidad homologable
+     - Modalidad
+     - Código de la materia
+     - Modalidad
    * - IDIG2012
      - Comunicación
      - Presencial
@@ -70,23 +75,6 @@ Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la dis
      - Presencial
      - ADMG1801
      - En línea
-
-.. sd-table::
-    :widths: 3 9
-
-    .. sd-row::
-        .. sd-item:: **What**
-        .. sd-item:: **Description**
-
-    .. sd-row::
-        .. sd-item:: Fox
-        .. sd-item::
-            The quick brown fox jumps over the lazy dog.
-
-    .. sd-row::
-        .. sd-item:: Franz
-        .. sd-item::
-            Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.
 
 Registros
 ^^^^^^^^^
