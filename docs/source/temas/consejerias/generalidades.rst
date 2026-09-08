@@ -50,7 +50,7 @@ Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la dis
    :header-rows: 1
    :widths: 15 35 15 15 15
 
-   * - Código
+   * - Código 2
      - Materia
      - Modalidad disponible
      - Código homologable
