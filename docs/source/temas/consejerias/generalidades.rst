@@ -46,44 +46,13 @@ Disponibilidad de materias
 
 Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la disponibilidad de los docentes de cada unidad académica. Por lo que, es necesario que cada estudiante planifique las materias y los paralelos en los que desea registrarse.
 
-<table>
-  <thead>
-    <tr>
-      <th colspan="3">Materia disponible para el registro</th>
-      <th colspan="2">Materia homologable en la malla</th>
-    </tr>
-    <tr>
-      <th>Código de la materia</th>
-      <th>Materia</th>
-      <th>Modalidad</th>
-      <th>Código de la materia</th>
-      <th>Modalidad</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>IDIG2012</td>
-      <td>Comunicación</td>
-      <td>Presencial</td>
-      <td>IDIG1801</td>
-      <td>En línea</td>
-    </tr>
-    <tr>
-      <td>INDG1033</td>
-      <td>Análisis y Resolución de Problemas</td>
-      <td>Presencial</td>
-      <td>INDG1801</td>
-      <td>En línea</td>
-    </tr>
-    <tr>
-      <td>ADMG1005</td>
-      <td>Emprendimiento e Innovación</td>
-      <td>Presencial</td>
-      <td>ADMG1801</td>
-      <td>En línea</td>
-    </tr>
-  </tbody>
-</table>
+| Materia disponible para el registro |                                    |                            | Materia homologable      |               |
+| ----------------------------------- | ---------------------------------- | -------------------------- | ------------------------ | ------------- |
+| **Código de la materia**            | **Materia**                        | **Modalidad**              | **Código de la materia** | **Modalidad** |
+| IDIG2012                            | Comunicación                       | Presencial o E-learning    | IDIG1801                 | En línea      |
+| INDG1033                            | Análisis y Resolución de Problemas | Presencial o E-learning    | INDG1801                 | En línea      |
+| ADMG1005                            | Emprendimiento e Innovación        | Presencial o E-learning    | ADMG1801                 | En línea      |
+
 
 Registros
 ^^^^^^^^^
