@@ -46,19 +46,47 @@ Disponibilidad de materias
 
 Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la disponibilidad de los docentes de cada unidad académica. Por lo que, es necesario que cada estudiante planifique las materias y los paralelos en los que desea registrarse.
 
-+--------------------------------------------------------------+-----------------------------------+
-| Materia disponible para el registro                          | Materia homologable                |
-+===============+==============================+===============+=================+=================+
-| Código        | Materia                      | Modalidad     | Código          | Modalidad       |
-+===============+==============================+===============+=================+=================+
-| IDIG2012      | Comunicación                 | Presencial    | IDIG1801        | En línea        |
-+---------------+------------------------------+---------------+-----------------+-----------------+
-| INDG1033      | Análisis y Resolución de     | Presencial    | INDG1801        | En línea        |
-|               | Problemas                    |               |                 |                 |
-+---------------+------------------------------+---------------+-----------------+-----------------+
-| ADMG1005      | Emprendimiento e Innovación  | Presencial    | ADMG1801        | En línea        |
-+---------------+------------------------------+---------------+-----------------+-----------------+
+.. list-table::
+   :header-rows: 1
+   :widths: 15 35 15 15 15
 
+   * - Código 2
+     - Materia
+     - Modalidad disponible
+     - Código homologable
+     - Modalidad homologable
+   * - IDIG2012
+     - Comunicación
+     - Presencial
+     - IDIG1801
+     - En línea
+   * - INDG1033
+     - Análisis y Resolución de Problemas
+     - Presencial
+     - INDG1801
+     - En línea
+   * - ADMG1005
+     - Emprendimiento e Innovación
+     - Presencial
+     - ADMG1801
+     - En línea
+
+.. sd-table::
+    :widths: 3 9
+
+    .. sd-row::
+        .. sd-item:: **What**
+        .. sd-item:: **Description**
+
+    .. sd-row::
+        .. sd-item:: Fox
+        .. sd-item::
+            The quick brown fox jumps over the lazy dog.
+
+    .. sd-row::
+        .. sd-item:: Franz
+        .. sd-item::
+            Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.
 
 Registros
 ^^^^^^^^^
