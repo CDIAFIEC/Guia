@@ -51,7 +51,7 @@ Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la dis
     .. grid-item-card::  Materia disponible para el registro
 
          .. sd-table::
-            :widths: 3 9
+            :widths: 3 4 5
 
             .. sd-row::
                 .. sd-item:: **Código**
@@ -66,7 +66,7 @@ Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la dis
     .. grid-item-card::  Materia homologable
 
          .. sd-table::
-            :widths: 3 9
+            :widths: 3 4 5
 
             .. sd-row::
                 .. sd-item:: **Código**
@@ -77,36 +77,6 @@ Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la dis
                 .. sd-item:: IDIG1801
                 .. sd-item:: Comunicación
                 .. sd-item:: En línea
-
-.. list-table::
-   :header-rows: 2
-   :widths: 15 35 15 15 15
-
-   * - Materia disponible para el registro
-     -
-     -
-     - Materia homologable
-     -
-   * - Código de la materia
-     - Materia
-     - Modalidad
-     - Código de la materia
-     - Modalidad
-   * - IDIG2012
-     - Comunicación
-     - Presencial
-     - IDIG1801
-     - En línea
-   * - INDG1033
-     - Análisis y Resolución de Problemas
-     - Presencial
-     - INDG1801
-     - En línea
-   * - ADMG1005
-     - Emprendimiento e Innovación
-     - Presencial
-     - ADMG1801
-     - En línea
 
 Registros
 ^^^^^^^^^
