@@ -38,26 +38,59 @@ De acuerdo con su situación académica la cita de consejería académica puede 
 - Cursar su primer término académico.
 - Estudiantes a prueba.
 
-Recomendaciones: Registros
---------------------------
-
-* Planifiquen su horario de clases y de exámenes de las materias a cursar en el próximo periodo académico, considerando los requisitos de cada materia. No se asegura el cruce de horarios en materias de diferentes niveles. Para ello, pueden consultar los horarios de clases y de exámenes en la `Académico - ESPOL <https://www.academico.espol.edu.ec/>`_.
-
-* En caso de presentarse problemas con la planificación de los horarios de clases o de exámenes de las materias propias de la carrera, por favor comuníquense con la coordinación de la carrera mediante correo electrónico `cdia@fiec.espol.edu.ec`.
+Recomendaciones Generales
+-------------------------
 
 Disponibilidad de materias
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la disponibilidad de los docentes de cada unidad académica. Por lo que, es necesario que cada estudiante planifique las materias y los paralelos en los que desea registrarse.
 
-| Materia disponible para el registro                                    |Materia homologable               |
-|------------------------------------------------------------------------|----------------------------------|
-| Código de la materia | Materias                           | Modalidad  | Código de la materia | Modalidad |
-|----------------------|------------------------------------|------------|----------------------|-----------|
-| IDIG2012             | Comunicación                       | Presencial | IDIG1801             | En línea  |
-| INDG1033             | Análisis y Resolución de Problemas | Presencial | INDG1801             | En línea  |
-| ADMG1005             | Emprendimiento e Innovación        | Presencial | ADMG1801             | En línea  |
+<table>
+  <thead>
+    <tr>
+      <th colspan="3">Materia disponible para el registro</th>
+      <th colspan="2">Materia homologable</th>
+    </tr>
+    <tr>
+      <th>Código de la materia</th>
+      <th>Materia</th>
+      <th>Modalidad</th>
+      <th>Código de la materia</th>
+      <th>Modalidad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>IDIG2012</td>
+      <td>Comunicación</td>
+      <td>Presencial</td>
+      <td>IDIG1801</td>
+      <td>En línea</td>
+    </tr>
+    <tr>
+      <td>INDG1033</td>
+      <td>Análisis y Resolución de Problemas</td>
+      <td>Presencial</td>
+      <td>INDG1801</td>
+      <td>En línea</td>
+    </tr>
+    <tr>
+      <td>ADMG1005</td>
+      <td>Emprendimiento e Innovación</td>
+      <td>Presencial</td>
+      <td>ADMG1801</td>
+      <td>En línea</td>
+    </tr>
+  </tbody>
+</table>
 
+Registros
+^^^^^^^^^
+
+* Planifiquen su horario de clases y de exámenes de las materias a cursar en el próximo periodo académico, considerando los requisitos de cada materia. No se asegura el cruce de horarios en materias de diferentes niveles. Para ello, pueden consultar los horarios de clases y de exámenes en la `Académico - ESPOL <https://www.academico.espol.edu.ec/>`_.
+
+* En caso de presentarse problemas con la planificación de los horarios de clases o de exámenes de las materias propias de la carrera, por favor comuníquense con la coordinación de la carrera mediante correo electrónico `cdia@fiec.espol.edu.ec`.
 
 Modalidad híbrida
 ------------------
