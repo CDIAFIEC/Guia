@@ -51,7 +51,7 @@ Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la dis
     .. grid-item-card::  Materia disponible para el registro
 
          .. sd-table::
-            :widths: 3 4 5
+            :widths: 4 4 4
 
             .. sd-row::
                 .. sd-item:: **Código**
@@ -66,7 +66,7 @@ Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la dis
     .. grid-item-card::  Materia homologable
 
          .. sd-table::
-            :widths: 3 4 5
+            :widths: 4 4 4
 
             .. sd-row::
                 .. sd-item:: **Código**
@@ -76,6 +76,66 @@ Las materias se ofrecerán de acuerdo con la demanda de los estudiantes y la dis
             .. sd-row::
                 .. sd-item:: IDIG1801
                 .. sd-item:: Comunicación
+                .. sd-item:: En línea
+
+    .. grid-item-card::  Materia disponible para el registro
+
+         .. sd-table::
+            :widths: 4 4 4
+
+            .. sd-row::
+                .. sd-item:: **Código**
+                .. sd-item:: **Nombre**
+                .. sd-item:: **Modalidad**
+            
+            .. sd-row::
+                .. sd-item:: INDG1033
+                .. sd-item:: Análisis y Resolución de Problemas 
+                .. sd-item:: **E-learning** o Presencial
+
+    .. grid-item-card::  Materia homologable
+
+         .. sd-table::
+            :widths: 4 4 4
+
+            .. sd-row::
+                .. sd-item:: **Código**
+                .. sd-item:: **Nombre**
+                .. sd-item:: **Modalidad**
+            
+            .. sd-row::
+                .. sd-item:: INDG1801
+                .. sd-item:: Análisis y Resolución de Problemas 
+                .. sd-item:: En línea
+
+    .. grid-item-card::  Materia disponible para el registro
+
+         .. sd-table::
+            :widths: 4 4 4
+
+            .. sd-row::
+                .. sd-item:: **Código**
+                .. sd-item:: **Nombre**
+                .. sd-item:: **Modalidad**
+            
+            .. sd-row::
+                .. sd-item:: ADMG1005
+                .. sd-item:: Emprendimiento e Innovación 
+                .. sd-item:: **E-learning** o Presencial
+
+    .. grid-item-card::  Materia homologable
+
+         .. sd-table::
+            :widths: 4 4 4
+
+            .. sd-row::
+                .. sd-item:: **Código**
+                .. sd-item:: **Nombre**
+                .. sd-item:: **Modalidad**
+            
+            .. sd-row::
+                .. sd-item:: ADMG1801
+                .. sd-item:: Emprendimiento e Innovación
                 .. sd-item:: En línea
 
 Registros
